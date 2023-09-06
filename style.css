@@ -3,9 +3,6 @@
     src: url(assets/fonts/ADLaMDisplay-Regular.ttf);
 }
 
-body{
-    font-family: Font1;
-}
 .container{
     max-width: 500px;
 }
